@@ -1,0 +1,7 @@
+# Файл .dockerignore
+venv
+.git
+.vscode
+.env
+db.sqlite3
+
